@@ -33,7 +33,7 @@
 		8A0EDEFA97D06D020397EEE3 /* Pods_AAPickerView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AAPickerView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B55E86739C1459D789D9CBD1 /* Pods-AAPickerView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AAPickerView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AAPickerView_Tests/Pods-AAPickerView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		B657F18D19455BBD52D362C9 /* Pods-AAPickerView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AAPickerView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AAPickerView_Tests/Pods-AAPickerView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		C235F3CCD75195EDF1AB2B5F /* AAPickerView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = AAPickerView.podspec; path = ../AAPickerView.podspec; sourceTree = "<group>"; };
+		C235F3CCD75195EDF1AB2B5F /* ZSPickerView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = ZSPickerView.podspec; path = ../ZSPickerView.podspec; sourceTree = "<group>"; };
 		C2792DBE58DDF21A75F16283 /* Pods-AAPickerView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AAPickerView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AAPickerView_Example/Pods-AAPickerView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		DCE057D0C83FF0350D9380B3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -116,7 +116,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				C235F3CCD75195EDF1AB2B5F /* AAPickerView.podspec */,
+				C235F3CCD75195EDF1AB2B5F /* ZSPickerView.podspec */,
 				7D986B054E973DB51B579741 /* README.md */,
 				DCE057D0C83FF0350D9380B3 /* LICENSE */,
 			);
