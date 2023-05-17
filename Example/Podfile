@@ -1,7 +1,9 @@
 use_frameworks!
 
+platform :ios, '11.0'
+
 target 'AAPickerView_Example' do
-    pod 'AAPickerView', :path => '../'
-    
-    
+
+  pod 'AAPickerView', :path => '../'
+
 end
